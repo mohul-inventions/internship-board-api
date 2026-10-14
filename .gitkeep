@@ -1,0 +1,1 @@
+// data/.gitkeep — keeps the data directory tracked by git while ignoring *.db files
